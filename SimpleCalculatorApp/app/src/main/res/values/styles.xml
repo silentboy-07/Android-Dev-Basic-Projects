@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CalculatorButton"></style>
+
+    <style name="OperatorButton"></style>
+
+    <style name="ClearButton"></style>
+</resources>

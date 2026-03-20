@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="content">Description</string>
+    <string name="About">Rama, the Hindu god, is the seventh avatar of the god Vishnu. In Hindu mythology, an avatar is an animal or human form into which a god can incarnate in order to counterbalance some opposing evil.</string>
+    <string name="submit">Submit</string>
+    <string name="contact_us">Contact Us</string>
+</resources>
